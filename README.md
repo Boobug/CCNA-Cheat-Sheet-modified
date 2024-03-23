@@ -218,7 +218,7 @@ I'm not supposed to. Always disable DTP / trunk auto negotiation.
 | # show dtp interface g1/1                              | Show current DTP mode for g1/1          |
 
 
-### VTP
+### VTP - VLAN Trunking Protocol
 
 | Command                                          | Description |
 |:-------------------------------------------------|:------------|
